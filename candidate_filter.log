@@ -1,0 +1,58 @@
+2024-08-20 01:53:48,531 - INFO - Data obtained successfully! 
+2024-08-20 01:53:48,536 - INFO - Candidate Clark L Kent meets the criteria and was included 
+2024-08-20 01:53:48,536 - INFO - Candidate Bruce Wayne meets the criteria and was included 
+2024-08-20 01:53:48,536 - INFO - Candidate Peter Parker meets the criteria and was included 
+2024-08-20 01:53:48,536 - INFO - Candidate Walter White do not have experience registered.
+2024-08-20 01:58:51,218 - INFO - Iniciando a filtragem de candidatos.
+2024-08-20 01:58:52,196 - INFO - Data obtained successfully! 
+2024-08-20 01:59:53,455 - INFO - Iniciando a filtragem de candidatos.
+2024-08-20 01:59:53,971 - INFO - Data obtained successfully! 
+2024-08-20 01:59:53,978 - INFO - Candidate Clark L Kent meets the criteria and was included 
+2024-08-20 01:59:53,978 - INFO - Candidate Bruce Wayne meets the criteria and was included 
+2024-08-20 01:59:53,978 - INFO - Candidate Peter Parker meets the criteria and was included 
+2024-08-20 01:59:53,979 - INFO - Candidate Walter White do not have experience registered.
+2024-08-20 02:10:24,216 - INFO - Candidate Charlie Davis meets the criteria and was included 
+2024-08-20 02:10:24,221 - INFO - Candidate John Doe meets the criteria and was included 
+2024-08-20 02:10:24,221 - INFO - Candidate Jane Smith do not stay in this sector.
+2024-08-20 02:10:24,221 - INFO - Candidate Alice Brown do not have the abilities: ['Data']
+2024-08-20 02:10:24,221 - INFO - Candidate Bob White do not have the abilities: ['Data']
+2024-08-20 02:17:49,688 - INFO - Starting filtering.
+2024-08-20 02:17:50,315 - INFO - Data obtained successfully! 
+2024-08-20 02:17:50,321 - INFO - Candidate Clark L Kent meets the criteria and was included 
+2024-08-20 02:17:50,321 - INFO - Candidate Bruce Wayne meets the criteria and was included 
+2024-08-20 02:17:50,321 - INFO - Candidate Peter Parker meets the criteria and was included 
+2024-08-20 02:17:50,321 - INFO - Candidate Walter White do not have experience registered.
+2024-08-20 02:35:55,599 - INFO - Starting filtering.
+2024-08-20 02:35:56,605 - INFO - Data obtained successfully! 
+2024-08-20 02:35:56,612 - INFO - Candidate Clark L Kent meets the criteria and was included 
+2024-08-20 02:35:56,613 - INFO - Candidate Bruce Wayne meets the criteria and was included 
+2024-08-20 02:35:56,613 - INFO - Candidate Peter Parker meets the criteria and was included 
+2024-08-20 02:35:56,613 - INFO - Candidate Walter White do not have experience registered.
+2024-08-20 02:36:15,278 - INFO - Candidate New Holland meets the criteria and was included 
+2024-08-20 02:36:15,283 - INFO - Candidate John Deere meets the criteria and was included 
+2024-08-20 02:36:15,283 - INFO - Candidate JBC Smith do not stay in this sector.
+2024-08-20 02:36:15,284 - INFO - Candidate Taffe Ferguson do not have the abilities: ['Data']
+2024-08-20 02:36:15,284 - INFO - Candidate Bob Cat do not have the abilities: ['Data']
+2024-08-20 02:38:11,396 - INFO - Starting filtering.
+2024-08-20 02:38:11,944 - INFO - Data obtained successfully! 
+2024-08-20 02:38:11,946 - INFO - Candidate Clark L Kent do not stay in this sector.
+2024-08-20 02:38:11,946 - INFO - Candidate Bruce Wayne do not stay in this sector.
+2024-08-20 02:38:11,946 - INFO - Candidate Peter Parker do not stay in this sector.
+2024-08-20 02:38:11,947 - INFO - Candidate Walter White do not have experience registered.
+2024-08-20 02:38:11,947 - INFO - No candidate meets the specified criteria.
+2024-08-20 02:41:04,390 - INFO - Starting filtering.
+2024-08-20 02:41:04,905 - INFO - Data obtained successfully! 
+2024-08-20 02:41:04,907 - INFO - Candidate Clark L Kent do not stay in this sector.
+2024-08-20 02:41:04,911 - INFO - Candidate Bruce Wayne meets the criteria and was included 
+2024-08-20 02:41:04,911 - INFO - Candidate Peter Parker do not stay in this sector.
+2024-08-20 02:41:04,911 - INFO - Candidate Walter White do not have experience registered.
+2024-08-20 02:50:08,588 - INFO - Candidate New Holland meets the criteria and was included 
+2024-08-20 02:50:08,592 - INFO - Candidate John Deere meets the criteria and was included 
+2024-08-20 02:50:08,592 - INFO - Candidate JBC Smith do not stay in this sector.
+2024-08-20 02:50:08,593 - INFO - Candidate Taffe Ferguson do not have the abilities: ['Data']
+2024-08-20 02:50:08,593 - INFO - Candidate Bob Cat do not have the abilities: ['Data']
+2024-08-20 09:48:28,457 - INFO - Candidate New Holland meets the criteria and was included 
+2024-08-20 09:48:28,461 - INFO - Candidate John Deere meets the criteria and was included 
+2024-08-20 09:48:28,461 - INFO - Candidate JBC Smith do not stay in this sector.
+2024-08-20 09:48:28,463 - INFO - Candidate Taffe Ferguson do not have the abilities: ['Data']
+2024-08-20 09:48:28,463 - INFO - Candidate Bob Cat do not have the abilities: ['Data']
